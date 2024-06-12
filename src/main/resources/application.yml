@@ -1,7 +1,7 @@
 spring:
   datasource:
     username: postgres
-    url: jdbc:postgresql://localhost:5432/tms
+    url: jdbc:postgresql://localhost:5432/tms-vaadin
     password: 1234
   jpa:
     database-platform: org.hibernate.dialect.PostgreSQLDialect
